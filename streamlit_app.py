@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("📰 AI Real vs. Fake News Detector")
+st.title("📰 Real vs. Fake News Detecton")
 st.write(
     "Paste the body of a news article below to evaluate its linguistic profile "
     "and check whether our AI identifies it as Real or Fake."
